@@ -1,0 +1,2 @@
+# rhctemp
+openshift template
